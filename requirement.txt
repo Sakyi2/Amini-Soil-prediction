@@ -1,0 +1,14 @@
+# Core Libraries
+numpy==1.24.4
+pandas==1.5.3
+scikit-learn==1.2.2  # Includes RandomForest, DecisionTree, LinearRegression, etc.
+
+# XGBoost
+xgboost==1.7.6
+
+# Visualization (optional)
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter Support (optional)
+notebook==6.5.4
