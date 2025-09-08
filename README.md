@@ -1,4 +1,6 @@
 # Amini-Soil-prediction
+<img width="720" height="720" alt="463399585-b49044e1-dd9a-4100-87f2-c50e7aa866b0" src="https://github.com/user-attachments/assets/0887e80a-224f-4bff-acb6-edb111b5fea6" />
+
 
 # 🌱 AMI Soil Property Prediction Challenge
 
